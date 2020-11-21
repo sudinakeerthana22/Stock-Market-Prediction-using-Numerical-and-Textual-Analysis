@@ -1,0 +1,2 @@
+# Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
+The project is on Stock Market Predictions based on Stock data of Dow Jones and the news headlines for the past 8 years. Stock prices of companies usually has a high impact depending on the things happening around the country. The idea is to use a company’s stock prices and the corresponding news headlines for 8 years and build a model which predicts the stock prices.
